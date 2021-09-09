@@ -4,6 +4,6 @@ widget_id: Bio
 headless: true
 weight: 20
 title: Biography
-active: true
+active: false
 author: andrea-salvati
 ---
