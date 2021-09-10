@@ -1,8 +1,8 @@
 ---
 widget: about
 widget_id: Bio
-headless: true
-weight: 20
+headless: false
+weight: 10
 title: Biography
 author: andrea-salvati
 ---
