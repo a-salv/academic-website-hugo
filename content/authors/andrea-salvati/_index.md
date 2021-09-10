@@ -2,8 +2,7 @@
 title: Andrea Salvati
 role: PhD Candidate in Economics
 avatar_filename: Andrea-Salvati-resized.jpeg
-bio: 
-  - I am a Ph.D. candidate in the Department of Economics at Rice University.
+bio: I am a Ph.D. candidate in the Department of Economics at Rice University.
 
 interests:
   - Economics of Education
