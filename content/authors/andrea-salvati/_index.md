@@ -10,5 +10,5 @@ interests:
 social: []
 organizations:
   - name: Rice University
-superuser: false
+superuser: true
 ---
