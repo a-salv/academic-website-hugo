@@ -6,7 +6,7 @@ bio: I am a Ph.D. candidate in the Department of Economics at Rice University. M
 interests:
   - Economics of Education
   - Labor Economics
-  - Applied Micro
+  - Applied Microeconomics
 social: []
 organizations:
   - name: Rice University
