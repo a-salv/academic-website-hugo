@@ -90,7 +90,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: true
+  page: false
   post: false
   project: true
   publication: true
@@ -107,7 +107,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
-avatar:
+avatar: '/content/authors/andrea-salvati/andrea-salvati-resized.jpg'
   gravatar: false
   shape: circle
 publications:
