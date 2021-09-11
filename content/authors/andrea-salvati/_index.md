@@ -24,10 +24,10 @@ education:
     institution: Rice University
     year: 2022 (Expected)
   - course: MSc in Economics
-    institution: Università di Bologna
+    institution: Universita di Bologna
     year: 2014
   - course: BA in Economics and Finance
-    institution: Università di Cagliari
+    institution: Universita di Cagliari
     year: 2011
 
 ---
