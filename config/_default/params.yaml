@@ -20,12 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: andrea.salvati@rice.edu
+# email: andrea.salvati@rice.edu
 phone:
 address:
   street: |
     Department of Economics MS-22
-    Rice Unviersity, 6100 Main St
+    Rice Unviersity,
+    6100 Main St
   city: Houston
   region: TX
   postcode: '77005'
