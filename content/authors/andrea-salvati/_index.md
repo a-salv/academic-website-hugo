@@ -28,14 +28,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andrea-salvati-48495b82/
-  
-address:
-  street: Department of Economics MS-22, Rice Unviersity, 6100 Main St
-  city: Houston
-  region: TX
-  postcode: '77005'
-  country: United States
-  country_code: US
 
 organizations:
   - name: Rice University
