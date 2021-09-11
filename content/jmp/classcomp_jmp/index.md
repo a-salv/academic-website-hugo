@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 title: "Teaching to the Middle or to the Edges: Classroom Composition, Instructional Choices, and Their Impact on Student Achievement"
 
 # Authors
