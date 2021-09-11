@@ -49,4 +49,4 @@ education:
 
 I am a Ph.D. candidate in the Department of Economics at Rice University. My research interests are Economics of Education, Labor Economics, and Applied Microeconomics.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/ASalvati?CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
