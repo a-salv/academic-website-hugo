@@ -3,6 +3,6 @@ widget: about
 widget_id: Bio
 headless: false
 weight: 10
-title: Biography
+title:
 author: andrea-salvati
 ---
