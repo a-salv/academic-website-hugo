@@ -5,7 +5,7 @@ superuser: true
 
 role: PhD Candidate in Economics
 
-avatar_filename: Andrea-Salvati-resized.jpeg
+# avatar_filename: Andrea-Salvati-resized.jpeg
 
 interests:
   - Economics of Education
