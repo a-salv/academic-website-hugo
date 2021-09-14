@@ -10,12 +10,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Job Market Paper
+title: Working Papers
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: working_papers
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
