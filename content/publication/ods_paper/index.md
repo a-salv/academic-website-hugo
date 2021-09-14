@@ -11,11 +11,11 @@ authors:
 - Andrea Salvati
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2018-08-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Papers in Regional Science*
-publication_short: 
+publication_short: *Papers in Regional Science*
 
 
 # Summary. An optional shortened abstract.
