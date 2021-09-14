@@ -47,8 +47,9 @@ education:
 
 ---
 
-<font size="2">I am a Ph.D. candidate in the Department of Economics at Rice University. I study human capital development, with a focus on the role of teachers, parents, and schooling decisions in the accumulation of skills during childhood and adolescence.</font>
+<font size="2">I am a Ph.D. candidate in the Department of Economics at Rice University. I study human capital development, with a focus on the role of teachers, parents, and schooling decisions in the accumulation of skills during childhood and adolescence.
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
 You can download my CV {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+</font>
