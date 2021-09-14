@@ -41,11 +41,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Custom Link
+  url: 
 
-# url_pdf: '/content/working_papers/classcomp_jmp/ASalvati_JMP.pdf'
-# url_pdf: "uploads/ASalvati_JMP.pdf"
+# url_pdf: 'uploads/ASalvati_JMP.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
