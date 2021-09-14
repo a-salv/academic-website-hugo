@@ -47,7 +47,7 @@ education:
 
 ---
 
-<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. I study human capital development, with a focus on the role of teachers, parents, and schooling decisions in the accumulation of skills during childhood and adolescence.
+<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My research focuses on the role of teachers, parents, peers, and schooling decisions in the development of human capital during childhood and adolescence.
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
