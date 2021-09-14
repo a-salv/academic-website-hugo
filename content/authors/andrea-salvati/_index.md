@@ -30,12 +30,11 @@ social:
   link: https://www.linkedin.com/in/andrea-salvati-48495b82/
 
 organizations:
-  - name: <font size="2"> Rice University </font>
+  - name: Rice University
   - url: https://economics.rice.edu/
 
 education:
   courses:
-  <font size="2">
   - course: PhD in Economics
     institution: Rice University
     year: 2022 (Expected)
@@ -45,11 +44,10 @@ education:
   - course: BA in Economics and Finance
     institution: University of Cagliari
     year: 2011
-  <\font>
 
 ---
 
-<font size="2">I am a Ph.D. candidate in the Department of Economics at Rice University. I study human capital development, with a focus on the role of teachers, parents, and schooling decisions in the accumulation of skills during childhood and adolescence.
+<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. I study human capital development, with a focus on the role of teachers, parents, and schooling decisions in the accumulation of skills during childhood and adolescence.
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
