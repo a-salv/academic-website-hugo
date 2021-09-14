@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Papers in Regional Science*
-publication_short: *Papers in Regional Science*
+publication_short: PIRS
 
 
 # Summary. An optional shortened abstract.
