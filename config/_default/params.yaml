@@ -96,7 +96,7 @@ show_related:
   page: false
   post: false
   project: true
-  publication: false
+  publication: true
   event: true
 reading_time: true
 section_pager: false
@@ -115,7 +115,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  # citation_style: apa
 projects:
   post_view: 2
   publication_view: 2
