@@ -15,5 +15,3 @@ view: 4
 # image: ""
 ---
 
-- TRRR
-- TRRR1
