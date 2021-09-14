@@ -26,7 +26,7 @@ publishDate: "2021-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Job Market Paper*
+publication: 
 publication_short:
 
 abstract: 
