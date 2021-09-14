@@ -47,6 +47,8 @@ education:
 
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Rice University. My research interests are Economics of Education, Labor Economics, and Applied Microeconomics.
+I am a Ph.D. candidate in the Department of Economics at Rice University. In my research project I study human capital development, with a focus on the role that teachers, parents, and schooling decisions play in the accumulation of skills during childhood and adolescence.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
+
+You can download my CV {{< icon name="download" pack="fas" >}} {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
