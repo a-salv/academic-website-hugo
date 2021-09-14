@@ -45,7 +45,7 @@ links:
 - name: Link to paper
   url: https://doi.org/10.1111/pirs.12395
 
-# url_pdf: ''
+url_pdf: 'uploads/SSRN-id3056192.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
