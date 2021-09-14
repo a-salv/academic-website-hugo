@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Teaching to the Middle or to the Edges: Classroom Composition, Instructional Choices, and Their Impact on Student Achievement"
+title: "Teaching to the Middle or to the Edges: Classroom Composition, Instructional Choices, and Their Impact on Student Achievement (Job Market Paper)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publishDate: "2021-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Job Market Paper
+publication: *Job Market Paper*
 publication_short:
 
 abstract: 
