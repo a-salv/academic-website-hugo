@@ -26,7 +26,7 @@ publishDate: "2021-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Job Market Paper
 publication_short:
 
 abstract: 
@@ -45,7 +45,7 @@ links:
 #   url: http://example.org
 
 # url_pdf: '/content/working_papers/classcomp_jmp/ASalvati_JMP.pdf'
-url_pdf: "uploads/ASalvati_JMP.pdf"
+# url_pdf: "uploads/ASalvati_JMP.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
