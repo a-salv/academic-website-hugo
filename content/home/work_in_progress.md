@@ -36,4 +36,4 @@ design:
   view: 3
 ---
 
-- *An Evaluation of a Food Scholarship Program*
+- **An Evaluation of a Food Scholarship Program**
