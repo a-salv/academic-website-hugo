@@ -51,4 +51,4 @@ I am a Ph.D. candidate in the Department of Economics at Rice University. In my 
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
-You can download my CV {{< icon name="download" pack="fas" >}} {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "uploads/ASalvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
