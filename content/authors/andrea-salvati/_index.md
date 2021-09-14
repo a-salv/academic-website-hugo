@@ -30,11 +30,12 @@ social:
   link: https://www.linkedin.com/in/andrea-salvati-48495b82/
 
 organizations:
-  - name: Rice University
+  - name: <font size="2"> Rice University </font>
   - url: https://economics.rice.edu/
 
 education:
   courses:
+  <font size="2">
   - course: PhD in Economics
     institution: Rice University
     year: 2022 (Expected)
@@ -44,6 +45,7 @@ education:
   - course: BA in Economics and Finance
     institution: University of Cagliari
     year: 2011
+  <\font>
 
 ---
 
