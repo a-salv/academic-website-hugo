@@ -77,7 +77,7 @@ address_format: en-us
 
 # Site features
 
-highlight: false
+highlight: true
 highlight_languages:
   - r
 math: false
@@ -96,7 +96,7 @@ show_related:
   page: false
   post: false
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: true
 section_pager: false
