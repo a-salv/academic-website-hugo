@@ -1,6 +1,6 @@
 ---
 title: Working Papers
-cms_exclude: true
+cms_exclude: false
 
 # View.
 #   1 = List
@@ -11,6 +11,6 @@ view: 3
 
 # Optional header image (relative to `static/media/` folder).
 # header:
-  # caption: ""
-  # image: ""
+# caption: ""
+# image: ""
 ---
