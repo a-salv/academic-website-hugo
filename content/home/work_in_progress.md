@@ -36,4 +36,6 @@ design:
   view: 3
 ---
 
-- **An Evaluation of a Food Scholarship Program**
+- **An Evaluation of a Food Scholarship Program**, *with Flavio Cunha and Kenneth Wolpin*
+- **Peer Pressure, Aggressive Behavior, and Skill Development: Estimating a Model of Bullying in the Classroom**, *with Qinyou Hu*
+- **The Role of Parental Investments and Childcare on Early Childhood Development: Evidence from the Head Start Impact Study**, *with Qinyou Hu*
