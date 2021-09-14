@@ -1,5 +1,5 @@
 ---
-title: "Incentives to local public service provision: An evaluation of Italy's Obiettivi di Servizio"
+title: "Incentives to Local Public Service Provision: An Evaluation of Italy's Obiettivi di Servizio"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
