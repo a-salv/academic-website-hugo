@@ -78,4 +78,4 @@ url_video: ''
 # slides: 
 ---
 
-Revise and Resubmit at "*Quantitative Economics*"
+- Revise and Resubmit at "*Quantitative Economics*"
