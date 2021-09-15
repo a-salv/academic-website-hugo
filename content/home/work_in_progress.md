@@ -36,7 +36,7 @@ design:
   view: 3
 ---
 
- -    **"An Evaluation of a Food Scholarship Program"**, *with Flavio Cunha and Kenneth Wolpin*
+ -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha and Kenneth Wolpin*
 
  -    **"Peer Pressure, Aggressive Behavior, and Skill Development: Estimating a Model of Bullying in the Classroom"**, *with Qinyou Hu*
 
