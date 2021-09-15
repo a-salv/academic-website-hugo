@@ -47,7 +47,7 @@ education:
 
 ---
 
-<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My main research interests encompass economics of education and labor economics, with a focus on human capital development during early childhood and adolescence.
+<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence.
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
