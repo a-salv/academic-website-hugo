@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Teaching to the Middle or to the Edges: Classroom Composition, Instructional Choices, and Their Impact on Student Achievement (Job Market Paper)"
+title: "Tailoring Instruction to Students' Knowledge: Teacher Incentives, Peer Effects, and The Impact of Ability Tracking on Student Achievement (Job Market Paper)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
