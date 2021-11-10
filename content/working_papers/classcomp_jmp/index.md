@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Tailoring Instruction to Students' Knowledge: Teacher Incentives, Peer Effects, and The Impact of Ability Tracking on Student Achievement (Job Market Paper)"
+title: "Tailoring Instruction to Students' Knowledge: Teacher Rewards, Peer Spillovers, and The Impact of Ability Tracking on Student Achievement (Job Market Paper)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -76,4 +76,4 @@ url_pdf: 'uploads/JMP_Salvati.pdf'
 # slides: ASalvati_JMP
 ---
 
-Draft coming soon
+# Draft coming soon
