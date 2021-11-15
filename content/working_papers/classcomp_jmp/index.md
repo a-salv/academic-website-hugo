@@ -44,7 +44,7 @@ links:
 # - name: Custom Link
 #   url: 
 
-url_pdf: 'uploads/JMP_Salvati.pdf'
+url_pdf: 'uploads/Salvati_JMP.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

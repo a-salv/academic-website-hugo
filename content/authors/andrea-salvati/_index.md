@@ -51,5 +51,5 @@ education:
 
 I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
-You can download my CV {{< staticref "uploads/CV_Salvati.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 </font>
