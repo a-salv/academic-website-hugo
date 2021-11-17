@@ -47,9 +47,9 @@ education:
 
 ---
 
-<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence.
+<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence. I am currently on the job market and will be graduating in Spring 2022.
 
-I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
+# I will be available for interviews at the ASSA 2022 and EJME 2021 virtual meetings.
 
 You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 </font>
