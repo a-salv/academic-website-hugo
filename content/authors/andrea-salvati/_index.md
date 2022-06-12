@@ -3,7 +3,7 @@ title: Andrea Salvati
 
 superuser: true
 
-role: PhD Candidate in Economics
+role: Postdoctoral Research Fellow
 
 # avatar_filename: Andrea-Salvati-resized.jpeg
 
@@ -41,9 +41,7 @@ education:
 
 ---
 
-<font size="3">I am a Ph.D. candidate in the Department of Economics at Rice University. My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence. 
-
-I am currently on the job market and will be graduating in Spring 2022.
+<font size="3">I am a Postdoctoral Research Fellow in the Department of Economics at University College London (UCL). My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence. 
 
 You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 </font>
