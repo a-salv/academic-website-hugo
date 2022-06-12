@@ -15,7 +15,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrea.salvati@rice.edu
+  link: mailto:andrea.salvati@ucl.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/salvati_andre
@@ -24,8 +24,8 @@ social:
   link: https://www.linkedin.com/in/andrea-salvati-48495b82/
 
 organizations:
-  - name: Rice University
-  - url: https://economics.rice.edu/
+  - name: University College London
+  - url: https://www.ucl.ac.uk/economics/
 
 education:
   courses:
