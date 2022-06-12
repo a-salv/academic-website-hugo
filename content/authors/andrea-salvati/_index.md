@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Rice University
-    year: 2022 (Expected)
+    year: 2022
   - course: MSc in Economics
     institution: University of Bologna
     year: 2014
