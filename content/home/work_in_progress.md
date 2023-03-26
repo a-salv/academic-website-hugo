@@ -39,5 +39,7 @@ design:
  -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha and Kenneth Wolpin*
 
  -    **"Social Interactions and the Effect of Bullying on Skill Development"**, *with Qinyou Hu*
+ 
+ -     **"Early Home Visits Improve Health in Black Mothers and Adolescent Daughters: 18-Year Follow-Up of a Randomized Trial"**, *with Gabriella Conti, Harriet Kitzman, Joyce Smith, Elizabeth Anson, Susan Groth, Michael Knudtson, and David Olds*
 
 <!--- -  **"The Role of Parental Investments and Childcare on Early Childhood Development: Evidence from the Head Start Impact Study"**, *with Qinyou Hu* --->
