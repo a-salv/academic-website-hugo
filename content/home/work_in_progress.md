@@ -36,7 +36,7 @@ design:
   view: 3
 ---
 
- -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha and Kenneth Wolpin*
+ -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha & Kenneth Wolpin*
 
  -    **"Social Interactions and the Effect of Bullying on Skill Development"**, *with Qinyou Hu*
  
