@@ -36,8 +36,7 @@ design:
   view: 3
 ---
 
- -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha and Kenneth Wolpin*
-<br>
+ -    **"An Evaluation of a Food Scholarship Program on College Graduation"**, *with Flavio Cunha and Kenneth Wolpin* "\n\n"
  -    **"Social Interactions and the Effect of Bullying on Skill Development"**, *with Qinyou Hu*
  
  -    **"Early Home Visits Improve Health in Black Mothers and Adolescent Daughters: 18-Year Follow-Up of a Randomized Trial"**, *with Gabriella Conti, Harriet Kitzman, Joyce Smith, Elizabeth Anson, Susan Groth, Michael Knudtson, and David Olds*
