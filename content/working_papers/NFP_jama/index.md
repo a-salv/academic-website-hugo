@@ -6,14 +6,14 @@ title: "Early Home Visits Improve Health in Black Mothers and Adolescent Daughte
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
--Gabriella Conti
--Harriet Kitzman
--Joyce Smith
--Elizabeth Anson
--Susan Groth
--Michael Knudtson
--andrea-salvati
--David Olds
+- Gabriella Conti
+- Harriet Kitzman
+- Joyce Smith
+- Elizabeth Anson
+- Susan Groth
+- Michael Knudtson
+- andrea-salvati
+- David Olds
 
 # Author notes (optional)
 # author_notes:
