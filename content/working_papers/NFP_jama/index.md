@@ -1,14 +1,19 @@
 ---
 active: true
-title: "An Evaluation of the Alief Independent School District Jump Start Program: Using a Model to Recover Mechanisms from an RCT"
+title: "Early Home Visits Improve Health in Black Mothers and Adolescent Daughters: 18-Year Follow-Up of a Randomized Trial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Flavio Cunha
-- andrea-salvati
-- Kenneth Wolpin
+-Gabriella Conti
+-Harriet Kitzman
+-Joyce Smith
+-Elizabeth Anson
+-Susan Groth
+-Michael Knudtson
+-andrea-salvati
+-David Olds
 
 # Author notes (optional)
 # author_notes:
@@ -46,7 +51,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/JS_paper.pdf'
+url_pdf: 'uploads/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -78,4 +83,4 @@ url_video: ''
 # slides: 
 ---
 
-- Revise and Resubmit at "*Journal of Political Economy*"
+- Revise and Resubmit at "*JAMA Network Open*"
