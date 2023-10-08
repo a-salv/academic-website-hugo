@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Teacher-to-Student Matching and the Impact of Ability Tracking on Student Achievement (Job Market Paper) - _New draft coming soon_"
+title: "Teacher-to-Student Matching and the Impact of Ability Tracking on Student Achievement (Job Market Paper) - *New draft coming soon*"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
