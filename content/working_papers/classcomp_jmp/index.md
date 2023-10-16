@@ -1,6 +1,7 @@
 ---
 active: true
-title: 'Teacher-to-Student Matching and the Impact of Ability Tracking on Student Achievement (Job Market Paper, draft coming soon)'
+title: 'Tailoring Instruction to Students' Knowledge:
+Teacher Incentives, Peer Spillovers, and The Impact of Ability Tracking on Student Achievement (Job Market Paper, draft coming soon)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
