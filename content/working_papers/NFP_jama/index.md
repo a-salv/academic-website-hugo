@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Early Home Visits Improve Health in Black Mothers and Adolescent Daughters: 18-Year Follow-Up of a Randomized Trial"
+title: "Early Home Visits Improve Health in Mothers and Daughters: 18-Year Follow-Up of a Randomized Trial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
