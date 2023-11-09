@@ -46,4 +46,6 @@ education:
 I will be on the job market in 2023/2024.
 
 You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+
+Email: andrea.salvati@ucl.ac.uk
 </font>
