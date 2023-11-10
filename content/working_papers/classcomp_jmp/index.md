@@ -1,6 +1,6 @@
 ---
 active: true
-title: ```{=latex}Teacher Instruction, Classroom Composition, and Student Achievement ({\textit{JMP})}```
+title: "Teacher Instruction, Classroom Composition, and Student Achievement (JMP)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -45,7 +45,6 @@ links:
 #   url: 
 
 url_pdf: 'uploads/Salvati_JMP.pdf'
-url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
