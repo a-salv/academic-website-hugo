@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Teacher Instruction, Classroom Composition, and Student Achievement (Job Market Paper, draft coming soon)"
+title: "Teacher Instruction, Classroom Composition, and Student Achievement (_Job Market Paper_)"
 
 #title: "Tailoring Instruction to Students' Knowledge: Teacher Incentives, Peer Spillovers, and The Impact of Ability Tracking on Student Achievement (Job Market Paper, draft coming soon)"
 
@@ -46,7 +46,7 @@ links:
 # - name: Custom Link
 #   url: 
 
-#url_pdf: 'uploads/Salvati_JMP.pdf'
+url_pdf: 'uploads/Salvati_JMP.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
