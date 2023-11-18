@@ -14,6 +14,7 @@ authors:
 # - "Equal contribution"
 
 # date: "2021-09-01T00:00:00Z"
+date: ''
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -76,4 +77,4 @@ url_video: ''
 # slides: ASalvati_JMP
 ---
 
-
+- *Job Market Paper*
