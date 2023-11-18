@@ -1,6 +1,6 @@
 ---
 active: true
-title: "Teacher Instruction, Classroom Composition, and Student Achievement (JMP)"
+title: "Teacher Instruction, Classroom Composition, and Student Achievement"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-09-01T00:00:00Z"
+# date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publishDate: "2021-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Job Market Paper
 publication_short:
 
 abstract: 
