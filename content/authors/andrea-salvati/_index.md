@@ -43,11 +43,9 @@ education:
 
 <font size="3">I am a Postdoctoral Research Fellow in the Department of Economics at University College London (UCL). My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence. 
 
-I am a CESIfo Network Affiliate.
+I am a [CESIfo](https://www.cesifo.org/) Network Affiliate.
 
-I will be on the job market in 2023/2024.
-
-You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+I will be on the job market in 2023/2024. You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
 Email: andrea.salvati@ucl.ac.uk
 </font>
