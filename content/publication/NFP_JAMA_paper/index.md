@@ -10,7 +10,7 @@ authors:
 - Elizabeth Anson
 - Susan Groth
 - Michael Knudtson
-- Andrea Salvati
+- andrea-salvati
 - David Olds
 
 # Author notes (optional)
