@@ -15,7 +15,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrea.salvati@ucl.ac.uk
+  link: mailto:andrea.salvati88@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/salvati_andre
