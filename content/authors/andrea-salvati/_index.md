@@ -45,7 +45,7 @@ education:
 
 I am a [CESIfo](https://www.cesifo.org/) Research Network Affiliate.
 
-On May 2024, I will join the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva as a Postdoctoral Researcher. On 2024/2025, I will join the [Department of Economics](https://econ.au.dk/) at Aarhus University as an Assistant Professor. 
+On May 2024, I will join the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva as a Postdoctoral Researcher. On 2025/2026, I will join the [Department of Economics](https://econ.au.dk/) at Aarhus University as an Assistant Professor. 
 
 You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
