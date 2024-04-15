@@ -43,9 +43,9 @@ education:
 
 <font size="3">My main research interests are economics of education and labor economics, with a focus on human capital development during early childhood and adolescence. 
 
-I am a [CESIfo](https://www.cesifo.org/) Research Network Affiliate.
-
 On May 2024, I will join the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva as a Postdoctoral Researcher. On 2025/2026, I will join the [Department of Economics](https://econ.au.dk/) at Aarhus University as an Assistant Professor. 
+
+I am a [CESIfo](https://www.cesifo.org/) Research Network Affiliate.
 
 You can download my CV {{< staticref "uploads/Salvati_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
