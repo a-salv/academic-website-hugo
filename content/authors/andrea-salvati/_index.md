@@ -3,7 +3,7 @@ title: Andrea Salvati
 
 superuser: true
 
-role: Postdoctoral Research Fellow
+# role: Postdoctoral Research Fellow
 
 # avatar_filename: Andrea-Salvati-resized.jpeg
 
@@ -24,8 +24,8 @@ social:
   link: https://www.linkedin.com/in/andrea-salvati-48495b82/
 
 organizations:
-  - name: University College London
-  - url: https://www.ucl.ac.uk/economics/
+  # - name: University College London
+  # - url: https://www.ucl.ac.uk/economics/
 
 education:
   courses:
