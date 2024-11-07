@@ -12,7 +12,6 @@ authors:
 - Kenneth Wolpin
 - Rui Zeng
 
-
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
