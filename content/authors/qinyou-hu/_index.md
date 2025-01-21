@@ -1,5 +1,5 @@
 ---
-title: Qinyou Hu
+title: [Qinyou Hu](https://sites.google.com/view/qinyouhu)
 
 superuser: false
 
