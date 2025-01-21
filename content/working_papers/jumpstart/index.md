@@ -7,7 +7,7 @@ title: "An Evaluation of the Alief Independent School District Jump Start Progra
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Flavio Cunha
-- winyou-hu
+- qinyou-hu
 - andrea-salvati
 - Kenneth Wolpin
 - Rui Zeng
