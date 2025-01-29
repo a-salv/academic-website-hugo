@@ -76,4 +76,3 @@ url_video: ''
 # slides: ASalvati_JMP
 ---
 
-# Job Market Paper
