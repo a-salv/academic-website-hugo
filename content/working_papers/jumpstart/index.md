@@ -30,7 +30,7 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Revise and Resubmit at Quantitative Economics
+publication: Revise and Resubmit at Journal of Political Economy
 publication_short:
 
 abstract: 
@@ -48,7 +48,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/JS_paper.pdf'
+# url_pdf: 'uploads/JS_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -80,4 +80,4 @@ url_video: ''
 # slides: 
 ---
 
-- Revise and Resubmit at "*Journal of Political Economy*"
+- Revise and Resubmit at "*Journal of Political Economy*" - *New version available soon*
