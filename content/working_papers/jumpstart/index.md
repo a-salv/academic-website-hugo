@@ -81,4 +81,4 @@ url_video: ''
 # slides: 
 ---
 
-- Revise and Resubmit at "*Journal of Political Economy*" - *New version available soon*
+- Revise and Resubmit at "*Journal of Political Economy*"
