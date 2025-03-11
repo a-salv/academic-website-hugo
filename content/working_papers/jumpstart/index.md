@@ -49,6 +49,7 @@ links:
 #   url: http://example.org
 
 # url_pdf: 'uploads/JS_paper.pdf'
+url_pdf: 'https://www.nber.org/system/files/working_papers/w33537/w33537.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
