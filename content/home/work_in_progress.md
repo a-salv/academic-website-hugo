@@ -36,7 +36,7 @@ design:
   view: 3
 ---
 
-**"Teaching Practices, Behavioral Change, and Socio-Emotional Skill Formation"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and Ece Yagman
+**"Teaching Practices, Behavioral Change, and Socio-Emotional Skill Formation"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and [Ece Yagman](https://sites.google.com/view/eceyagman/home)
 
 **"Game of Bullies: Strategic Aggression, Peer Interactions, and Human Capital in Schools"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
   
