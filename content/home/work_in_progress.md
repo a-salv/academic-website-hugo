@@ -36,7 +36,7 @@ design:
   view: 3
 ---
 
-**"The Impact of Formative Assessment of Behavior-Based Socioemotional Skills on Students' Outcomes"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and Ece Yagman
+**"Teaching Practices, Behavioral Change, and Socio-Emotional Skill Formation"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and Ece Yagman
 
 **"Game of Bullies: Strategic Aggression, Peer Interactions, and Human Capital in Schools"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
   
