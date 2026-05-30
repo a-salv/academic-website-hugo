@@ -36,13 +36,15 @@ design:
   view: 3
 ---
 
-**"Teaching Practices, Behavioral Change, and Socio-Emotional Skill Formation"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and [Ece Yagman](https://sites.google.com/view/eceyagman/home)
+**"Skill Formation in Schools and the Economics of School Entry Age"**, with [Anne Marie Andersen Dreyer](https://www.andersendreyer.com/)
 
-**"Game of Bullies: Strategic Aggression, Peer Interactions, and Human Capital in Schools"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
+**"Strategic Interactions, Peer Effects, and Human Capital: Estimating an Equilibrium Model of School Bullying"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
   
 **"An Evaluation of a Food Scholarship Program on College Graduation"**, with [Flavio Cunha](https://www.flaviocunha.com/) and [Kenneth Wolpin](https://economics.sas.upenn.edu/people/kenneth-i-wolpin)
  
-
+<!--- **"Game of Bullies: Strategic Aggression, Peer Interactions, and Human Capital in Schools"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage) --->
+ 
+<!--- **"Teaching Practices, Behavioral Change, and Socio-Emotional Skill Formation"**, with [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/homepage),[Giacomo De Giorgi](https://sites.google.com/site/giacomodegiorgi/), [Laia Navarro-Sola](https://www.laianavarrosola.com/), and [Ece Yagman](https://sites.google.com/view/eceyagman/home) --->
  
 <!--- **"Early Home Visits Improve Health in Black Mothers and Adolescent Daughters: 18-Year Follow-Up of a Randomized Trial"**, *with Gabriella Conti, Harriet Kitzman, Joyce Smith, Elizabeth Anson, Susan Groth, Michael Knudtson, and David Olds*  --->
 
