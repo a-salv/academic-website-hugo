@@ -38,7 +38,7 @@ design:
 
 **"Skill Formation in Schools and the Economics of School Entry Age"**, with [Anne Marie Andersen Dreyer](https://www.andersendreyer.com/)
 
-**"Strategic Interactions, Peer Effects, and Human Capital: Estimating an Equilibrium Model of School Bullying"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
+**"Strategic Interactions, Networks, and Human Capital: Estimating an Equilibrium Model of School Bullying"**, with [Qinyou Hu](https://sites.google.com/view/qinyouhu) and [Yiming Xia](https://sites.google.com/view/yimingxia/homepage)
   
 **"An Evaluation of a Food Scholarship Program on College Graduation"**, with [Flavio Cunha](https://www.flaviocunha.com/) and [Kenneth Wolpin](https://economics.sas.upenn.edu/people/kenneth-i-wolpin)
  
