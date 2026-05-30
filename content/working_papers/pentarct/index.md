@@ -19,6 +19,7 @@ authors:
 
 date: "2022-08-01T00:00:00Z"
 doi: ""
+show_date: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
