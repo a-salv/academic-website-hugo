@@ -1,0 +1,6 @@
+/* Remove clickable link on paper titles in listings */
+.card-title a {
+  pointer-events: none;
+  color: inherit;
+  text-decoration: none;
+}
