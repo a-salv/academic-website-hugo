@@ -82,4 +82,4 @@ url_video: ''
 # slides: 
 ---
 
-- *[New draft coming soon]*
+- *[Draft available upon request]*
