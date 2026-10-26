@@ -1,6 +1,6 @@
 ---
 active: true
-title: "An Evaluation of the Alief Independent School District Jump Start Program: Using a Model to Recover Mechanisms from an RCT"
+title: "Estimating, Bounding, and Decomposing the Effects of a Parent-Directed School Readiness Program"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -49,7 +49,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'uploads/JS_paper.pdf'
+url_pdf: 'uploads/jumpstart_2026.10.10_final.pdf'
 # url_pdf: 'https://www.nber.org/system/files/working_papers/w33537/w33537.pdf'
 url_code: ''
 url_dataset: ''
@@ -82,4 +82,4 @@ url_video: ''
 # slides: 
 ---
 
-- Revise and Resubmit at "*Journal of Political Economy*" - *[New draft coming soon]*
+- [**New draft version**] Revise and Resubmit at "*Journal of Political Economy*"
