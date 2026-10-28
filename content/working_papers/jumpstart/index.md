@@ -49,7 +49,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/jumpstart_2026.10.10_final.pdf'
+url_pdf: 'uploads/jumpstart_2026.10.28_final.pdf'
 # url_pdf: 'https://www.nber.org/system/files/working_papers/w33537/w33537.pdf'
 url_code: ''
 url_dataset: ''
